@@ -1,3 +1,5 @@
+Warning: this project is AI-coded. I designed the algo, chose which models and strategies to use, manually tested and applied patches myself, the grunt work has been made by mixed models (mostly Gemini and Qwen) under my supervision. I devised all of the optimizations and located most bugs manually as well as devising the solution to fix them. The .md below has been AI-written under my specifications.
+
 # Booru Autotagger v2026.4
 
 This application automates the first stage of image dataset curation by loading images from a directory, executing multi-model booru-style autotagging, performing tag reranking, and enabling manual editing before mass-exporting the metadata.
